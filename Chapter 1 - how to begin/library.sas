@@ -1,5 +1,5 @@
 *creating temporary library;
-LIBNAME stud BASE 'c:/Users/ebryl/Sebastian/stud';
+LIBNAME stud BASE 'C:\Users\ebryl\Desktop\Sebastian\stud';
 
 *to delete a library;
 LIBNAME stud CLEAR;
