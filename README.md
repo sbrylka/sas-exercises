@@ -13,11 +13,11 @@
 
 ## General info
 This project will show how to use base commands like:
-..*how to put your data
-..*merge your tables
-..*use "if" function
-..*make simple charts
-..*count easiest statistics
+* how to put your data
+* merge your tables
+* use "if" function
+* make simple charts
+* count easiest statistics
 
 
 ## Screenshots
