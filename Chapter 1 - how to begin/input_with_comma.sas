@@ -1,4 +1,4 @@
-*second option of data inpjut where we're using comma afer every variable value;
+*second option of data input where we're using comma afer every variable value;
 data energy_market_europe_2012;
 infile cards delimiter=',';
 length Kraj $ 15;
