@@ -1,0 +1,12 @@
+data stud.eme_2011_label;
+set stud.energy_market_europe_2011 ;
+label Konsumpcja_ropy_naftowej = "Konsumpcja ropy naftowej";
+label Konsumpcja_gazu_ziemnego = "Konsumpcja gazu ziemnego";
+label Konsumpcja_wegla = "Konsumpcja wêgla";
+label Konsumpcja_energii_atomowej = "Konsumpcja energii atomowej";
+label Konsumpcja_energii_wodnej = "Konsumpcja energii wodnej";
+label Konsumpcja_energii_slonecznej = "Konsumpcja energii s³onecznej";
+label Konsumpcja_energii_wiatrowej = "Konsumpcja energii wiatrowej";
+label Konsumpcja_energii_geo_itd = "Konsumpcja energii geotermalnej i innych";
+label Produkcja_dwutlenku_wegla = "Produkcja dwutlenku wêgla";
+run;
