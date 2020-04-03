@@ -6,7 +6,7 @@
 * [Screenshots](#screenshots)
 * [Technologies](#technologies)
 * [Setup](#setup)
-* [Features](#features)
+* [To do list](#to-do-list)
 * [Status](#status)
 * [Inspiration](#inspiration)
 * [Contact](#contact)
@@ -30,18 +30,18 @@ TBA
 To setup some of lines you will need input data from the first chapter, where I show how to import different data types. Later I'm going to use SAS datasets.
 
 ## Code Examples
-TBA:
-`TBA`
+proc sort example:
+``` sas
+proc sort
+data=energy_market_europe_2011
+out=EME_2011_sorted_d;
+by DESCENDING Kraj;
+run;
+```
 
-## Features
-List of features ready and TODOs for future development
-* TBA
-* TBA
-* TBA
-
-To-do list:
-* Simple commands
+##To do list:
 * Statistic functions
+* Simple commands
 
 ## Status
 Project is: _in progress_
